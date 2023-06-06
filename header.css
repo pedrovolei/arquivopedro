@@ -2,7 +2,9 @@
     height: 24px;
     height: 24px;
     background-image: url("../img/menu.svg");
+    background-repeat: no-repeat;
     display: inline-block;
+    background-position: center;
 }
 .cabeçalho {
     background-color: var(--branco);
