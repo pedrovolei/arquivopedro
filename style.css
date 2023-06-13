@@ -1,4 +1,5 @@
 @import url("styles/header.css");
+@import url(styles/banner.css);
 :root{
 
         --cor-de-fundo: #0959fa;
@@ -11,7 +12,7 @@ h1  {
 }
  ;
   :root {
-        --cor-de-fundo: #0959fa
+        --cor-de-fundo: #0959fa;
 
  }
 
